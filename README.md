@@ -4,9 +4,14 @@ I'm documenting my progress as I learn Python and work toward machine learning.
 
 ## Current Progress
 
-- [x] Part 1 — Completed
-- [x] Part 2 — Completed
-- [ ] Part 3 — In progress / upcoming
+## Intro
+- [x] Part 1 — Arithmetic and Variables Completed
+- [x] Part 2 — Functions Completed
+- [x] Part 3 — Data types Completed
+- [x] Part 4 — Conditionals Completed
+- [x] Part 5 — Lists Completed
+
+## Upcoming Titanic Tutorial test
 
 ## Repository Contents
 
